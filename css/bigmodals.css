@@ -1,0 +1,12 @@
+.bigmodal {
+  width: 90%;
+  height: 90%;
+  left: 5%;
+  margin: 0;
+}
+.bigmodal.fade.in {
+  top: 5%;
+}
+.bigmodal .modal-body {
+  max-height: none;
+}
