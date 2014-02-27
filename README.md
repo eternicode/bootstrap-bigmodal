@@ -17,7 +17,7 @@ Usage
 
 See [bootstrap modals][1] for all options and methods.  BigModal passes all arguments to the underlying modal.  Simply use the `bigmodal` jquery method in place of the `modal` method:
 
-[1]: http://twitter.github.com/bootstrap/javascript.html#modals
+[1]: http://getbootstrap.com/2.3.2/javascript.html#modals
 
 ```javascript
 // Initialize bigmodal
